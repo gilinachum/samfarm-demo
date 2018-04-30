@@ -2,7 +2,7 @@ version: 0.0
 environment_variables:
     plaintext:
         "INPUT_FILE": "saml.yaml"
-        "S3_BUCKET": "samfarm-packged-lambda-bucket"
+        "S3_BUCKET": "serverless-app-331113010199-eu-west-1-samfarm-demo-app"
 containers:
     LambdaFunctions:
         phases:
